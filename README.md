@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🕸️ &nbsp; Passionate Developer ready to face new exiting challenges to implement and upgrade my existing skills...
+- 🕸️ &nbsp; Passionate Developer ready to face new exciting challenges to implement and upgrade existing skills...
 - 🔭 &nbsp; Currently working on **Front-End Development (Javascript, React, Redux)** .
 - 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -16,7 +16,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nishanth-s-66990816a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nishanth%20k-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/nishanth-s-66990816a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nishanth%20S-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:nishanthfin27@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nishanthfin27@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
