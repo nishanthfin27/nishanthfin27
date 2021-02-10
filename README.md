@@ -9,7 +9,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | ES5 | ES6+ | DOM Manupliations
+- 💻 &nbsp; JavaScript | ES5 | ES6+ | DOM Manupilations
 - 🌐 &nbsp; HTML | CSS | ReactJS |Redux 
 - 🔧 &nbsp; Git | Postman 
 
