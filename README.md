@@ -3,13 +3,13 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🕸️ &nbsp; Passionate Developer ready to face new exciting challenges to implement and upgrade existing skills...
-- 🔭 &nbsp; Currently working on **Front-End Development (Javascript, React, Redux)** .
+- 🔭 &nbsp; Currently working on **Back-End Development (Javascript, Nodejs, Expressjs)** .
 - 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | ES5 | ES6+ | DOM Manupilations
+- 💻 &nbsp; JavaScript | ES5 | ES6+ | DOM Manupilations | Nodejs | Express js
 - 🌐 &nbsp; HTML | CSS | ReactJS |Redux 
 - 🔧 &nbsp; Git | Postman 
 
